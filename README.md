@@ -1,3 +1,9 @@
+![HTML](https://img.shields.io/badge/HTML-5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-UI%20Design-1572B6?logo=css3&logoColor=white)
+![Responsive UI](https://img.shields.io/badge/Responsive-UI-0A66C2)
+![Frontend](https://img.shields.io/badge/Frontend-Development-000000)
+
+
 # 🎨 CSS UI Experiments
 
 A collection of UI components and layout experiments focused on clean design, responsive behavior, and frontend styling patterns.
