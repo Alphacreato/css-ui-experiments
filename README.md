@@ -3,6 +3,10 @@
 ![Responsive UI](https://img.shields.io/badge/Responsive-UI-0A66C2)
 ![Frontend](https://img.shields.io/badge/Frontend-Development-000000)
 
+![Repo Size](https://img.shields.io/github/repo-size/Alphacreato/REPO_NAME)
+![Last Commit](https://img.shields.io/github/last-commit/Alphacreato/REPO_NAME)
+
+
 
 # 🎨 CSS UI Experiments
 
